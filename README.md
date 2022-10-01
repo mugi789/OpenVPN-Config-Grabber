@@ -2,7 +2,8 @@
  OpenVPN Config Grabber is tool for mass download configuration files from vpngate.net
  
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/32443765/152676761-24057b9e-9592-4ba8-9ac2-8c4d0ccdbadb.png" height="200"> <img src="https://user-images.githubusercontent.com/32443765/152676760-b1891d9c-6ce6-42fd-8e72-f2a3cc8a9368.png" height="200">
+  <img src="https://user-images.githubusercontent.com/32443765/193411614-3398215d-58ba-4d46-8bd8-513dbd410036.png" height="400">
+
   </p>
 
 # How to Install and Usage
